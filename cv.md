@@ -2,7 +2,7 @@
 
 # __Vladislav Peryazev__
 
-### __Future Frontend Developer__
+__Future Frontend Developer__
 ***
 ## Contact information:
 
