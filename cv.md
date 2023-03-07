@@ -1,4 +1,4 @@
-# [__rsschool-cv__](https://Vladislav-Peryazev77.github.io/rsschool-cv/)
+# [__rsschool-cv__](https://Vladislav-Peryazev77.github.io/rsschool-cv/cv)
 
 # __Vladislav Peryazev__
 
